@@ -11,7 +11,7 @@
   <h3>👋 안녕하세요~</h3>
 </div>
 
-## :man_technologist: 제 소개를 하면요..
+## :man_technologist: 저는..
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=enesbee&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=000000&ring=DD2727&fire=DD2727)](https://git.io/streak-stats)
 <!--
