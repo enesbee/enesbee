@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Facebook-blue?&logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
     </a>
   </div>
-  <h2>👋 안녕하세요~</h2>
+  <h3>👋 안녕하세요~</h3>
 </div>
 
 ## :man_technologist: 제 소개를 하면요..
