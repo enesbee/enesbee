@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Facebook-blue?&logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
   </a>
 </div>
-![](https://komarev.com/ghpvc/?username=enesbee&color=blueviolet&label=프로필+조회수&style=flat-square)
 ---
 ## :man_technologist: 저 소개를 하자면..
 
