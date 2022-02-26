@@ -35,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="JetBrains WebStorm" alt="JetBrains WebStorm" width="40" height="40"/>
   <img src="https://c.tenor.com/413M4m8UsOsAAAAM/bubble.gif" title="점점 추가 예정 :)" alt="점점 추가 예정 :)" width="52" height="40"/>
 </div>
 
