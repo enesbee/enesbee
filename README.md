@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" title="JetBrains WebStorm" alt="JetBrains WebStorm" width="40" height="40"/>
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/ionicons/svg/add-circle.svg" title="점점 추가 예정 :)" alt="점점 추가 예정 :)" width="52" height="40"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f1055231234507.564a1d234bfb6.gif" title="점점 추가 예정 :)" alt="점점 추가 예정 :)" width="40" height="40"/>
 </div>
 
 ## :jigsaw: 여긴 제 잔디밭입니다.
