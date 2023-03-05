@@ -12,7 +12,7 @@
     </a>
   </div>
   <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 안녕하세요~</h1>
-  <p><strong>저는 용인에서 웹프론트엔드를 공부하는 남상봉입니다.</strong></p>
+  <p><strong>놀러와주셔서 감사합니다.</strong></p>
 </div>
 
 ## :man_technologist: 저는..
